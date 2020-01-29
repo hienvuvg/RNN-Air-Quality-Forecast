@@ -1,4 +1,4 @@
-# RNN-AirQualityForecast
+# RNN for Air Quality Forecast
 
 This is a course project which use air pollution data of Hanoi city during 5 months of observation. 
 
